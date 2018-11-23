@@ -19,15 +19,14 @@ body{
     float: left;
 
 }
-.link{
-    background-color: ;
-}
 .text-box{
        border-bottom: 8px;
        border-top: 6px;
        border-left: 7px;
        border-right: 7px;
-       background-color:burlywood;
+    background-color: lightblue;
 
-
+}
+.me{
+    font-weight: bolder
 }
