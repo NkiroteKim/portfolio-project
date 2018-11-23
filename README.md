@@ -1,15 +1,18 @@
-<html>
-    <head>
-        <title>this is my portfolio</title>
-    </head>
-    
-    <body>
-        <h1>portfolio project</h1>
-        <p>Fridah Kimathi</p>
-        <p>The portfolio contains a brief description of who i am.It also contains a list of projects i have done.</p>
-        <p>MIT License
 
-Copyright (c) [year] [fullname]
+    
+
+        portfolio-project
+        Fridah Kimathi
+        The portfolio contains a brief description of who i am.It also contains a list of projects i have done.
+        The tecnologies used include:
+                Html
+                Css
+                Git
+        Set-up instructions:
+                There is currently no set-up required when viewing this portfolio.
+        MIT License
+
+Copyright (c) [2018] [Fridah Kimathi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
