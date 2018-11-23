@@ -10,6 +10,7 @@
                 Git
         Set-up instructions:
                 There is currently no set-up required when viewing this portfolio.
+                A link to the project:https://nkirotekim.github.io/portfolio-project/
         MIT License
 
 Copyright (c) [2018] [Fridah Kimathi]
