@@ -1,0 +1,25 @@
+img{
+    width: 4cm;
+    height: 5cm;
+    shape-rendering: crispEdges;
+}
+html{
+    background-image: url("https://images.pexels.com/photos/414660/pexels-photo-414660.jpeg?auto=compress&cs=tinysrgb&h=350");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+body{
+    font-size: 20px
+}
+.list{
+    font-weight: bolder;
+    font-style: italic;
+    float: left;
+
+}
+.link{
+    float:right;
+    background-color: black;
+}
