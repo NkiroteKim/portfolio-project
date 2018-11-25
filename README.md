@@ -1,27 +1,26 @@
+# My portfolio
+#### This is my portfolio landing page that gives a brief introduction about myself. Enjoy!
+#### By **Fridah kim**
 
-    # PORTFOLIO
+## Description
 
-        This is my portfolio landing page.
-        By: Fridah Kimathi
+My portfolio website that highlights a list of my projects at Moringa school,my hobbies, contacts and a brief description about me.
 
-    ## Description 
+## Setup/Installation Requirements
+* There are no set up installations for this project.
+* Find a link to this project here: https://github.com/NkiroteKim/portfolio-project
 
-        The portfolio contains a brief description of who i am.It also contains a list of projects i have done.
 
-    ### Technologies used
-
-        The tecnologies used include:
-                Html
-                Css
-                Git
-
-     ### Set-up instructions:
-                There is currently no set-up required when viewing this portfolio.
-                A link to the project:https://nkirotekim.github.io/portfolio-project/
-
-        
-        
-        MIT License
+## Known Bugs
+There are no known bugs so far!
+## Technologies Used
+* HTML
+* CSS
+* GIT
+## Support and contact details
+Contact me for any sort of enquiries. fredakim18@gmail.com
+### License
+MIT License
 
 Copyright (c) [2018] [Fridah Kimathi]
 
