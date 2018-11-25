@@ -1,16 +1,26 @@
 
-    
+    # PORTFOLIO
 
-        portfolio-project
-        Fridah Kimathi
+        This is my portfolio landing page.
+        By: Fridah Kimathi
+
+    ## Description 
+
         The portfolio contains a brief description of who i am.It also contains a list of projects i have done.
+
+    ### Technologies used
+
         The tecnologies used include:
                 Html
                 Css
                 Git
-        Set-up instructions:
+
+     ### Set-up instructions:
                 There is currently no set-up required when viewing this portfolio.
                 A link to the project:https://nkirotekim.github.io/portfolio-project/
+
+        
+        
         MIT License
 
 Copyright (c) [2018] [Fridah Kimathi]

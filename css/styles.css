@@ -1,11 +1,12 @@
 img{
     width: 5cm;
     height: 7cm;
-    border-radius: 50%;
+    border-radius: 12%;
+    padding-left: 15%;
     
 }
 html{
-    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18696312.jpg");
+    background-image: url("https://wallpapercave.com/wp/wp2610943.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -14,10 +15,11 @@ html{
 body{
     font-size: 23px
 }
-.list{
+.projects{
     font-weight: bolder;
     font-style: italic;
     float: left;
+    padding-left: 20%;
 
 }
 .text-box{
@@ -25,14 +27,48 @@ body{
        border-top: 30px;
        border-left: 40px;
        border-right: 40px;
-    background-color:black;
-    float: right;
+    float: left;
+}
+p { 
+ padding-left: 17%;
+ float: left;
 }
 .me{
     font-weight: bolder
 }
 #project{
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        color: darkgreen;
+        margin-left: 20%;
+        font-weight: bolder;
 
+}
+#edu{
+    font-weight:bolder;
+    font-style:initial;
+}
+.read{
+    font-style: italic;
+    font-size: 15Px;
+
+}
+.brief{
+    text-align:center;
+
+}
+.fridah{
+    font-style: italic;
+
+.important{
+    float: right;
+}
+
+.school{
+        font-style: normal;
+}
+h1 {
+    padding-left: 37%;
+
+}
+.contacts {
+    padding-left: 333%;
 }
