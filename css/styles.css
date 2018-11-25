@@ -4,7 +4,7 @@ img{
     border-radius: 50%;
 }
 html{
-    background-image: url("https://images.pexels.com/photos/414660/pexels-photo-414660.jpeg?auto=compress&cs=tinysrgb&h=350");
+    background-image: url("http://4everstatic.com/pictures/850xX/art/music/clef,-sheet-of-music,-heart,-brown-background,-cartoon-257767.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -20,12 +20,12 @@ body{
 
 }
 .text-box{
-       border-bottom: 8px;
-       border-top: 6px;
-       border-left: 7px;
-       border-right: 7px;
-    background-color: lightblue;
-
+       border-bottom: 30px;
+       border-top: 30px;
+       border-left: 40px;
+       border-right: 40px;
+    background-color:black;
+    float: right;
 }
 .me{
     font-weight: bolder
